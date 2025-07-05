@@ -1,6 +1,6 @@
 # Export Spotify Playlist to CSV
 
-Ce projet permet d’exporter les pistes d’une playlist Spotify publique dans un fichier CSV.
+Ce projet permet d’exporter les pistes d’une playlist Spotify publique dans un fichier CSV ou json.
 
 ---
 
