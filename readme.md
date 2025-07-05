@@ -15,7 +15,7 @@ Ce projet permet d’exporter les pistes d’une playlist Spotify publique dans 
 ## Prérequis
 
 - Python 3.8+
-- Un compte développeur Spotify pour récupérer vos identifiants :
+- Un compte développeur Spotify pour récupérer vos identifiants (si besoin se rendre sur https://developer.spotify.com/dashboard pour les générer) :
   - CLIENT_ID
   - CLIENT_SECRET
 - Installer les dépendances :
