@@ -38,8 +38,6 @@ CLIENT_ID=ta_client_id_spotify
 CLIENT_SECRET=ton_client_secret_spotify
 ```
 
-> ⚠️ Pense à ajouter `.env` dans ton `.gitignore` pour ne pas versionner tes identifiants.
-
 ---
 
 ### UTILISATION
